@@ -14,10 +14,41 @@ If you want to contribute  to this repository please fork it and make a pull req
 * [Pexels](https://www.pexels.com/)
 * [Unsplash](https://unsplash.com/)
 
+##Vector Art & Logos
+* [LogoMakr](https://www.logomakr.com/)
+* [Freepik](http://www.freepik.com/)
+
+##Fonts
+* [Blockk (BLOKK fontBLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.)](http://www.freepik.com/)
+* [Google Fonts](https://fonts.google.com/)
+
+
 ##CSS 
 * [CSS3 Generator](http://css3generator.com/)
 * [Bootstrap Framework](http://getbootstrap.com/)
 
 ##JavaScript
 * [jQuery](https://jquery.com/)
-* 
+
+
+##Improve Your Code
+* [Emmet](http://emmet.io/)
+* [Codepen](https://codepen.io/)
+* [W3C Validator](https://validator.w3.org/)
+
+##Browsers
+* [Blisk - Browser for Web Devs](https://blisk.io/)
+* [Chrome](https://www.google.com/chrome/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+ 
+##Web Design
+* [Subtle Patterns](http://subtlepatterns.com/)
+
+##Text Editors
+* [Sublime Text](https://www.sublimetext.com/)
+* [Atom](https://atom.io/)
+* [Adobe Brackets](http://brackets.io/)
+* [MS Visual Studio Code](http://subtlepatterns.com/)
+
+##Where To Get Help
+* [Stack Overflow](http://stackoverflow.com/)
