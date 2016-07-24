@@ -19,7 +19,7 @@ If you want to contribute  to this repository please fork it and make a pull req
 * [Freepik](http://www.freepik.com/)
 
 ##Fonts
-* [Blockk (BLOKK fontBLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.)](http://www.freepik.com/)
+* [Blokk (BLOKK fontBLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.)](http://blokkfont.com/)
 * [Google Fonts](https://fonts.google.com/)
 
 
@@ -51,7 +51,7 @@ If you want to contribute  to this repository please fork it and make a pull req
 * [Sublime Text](https://www.sublimetext.com/)
 * [Atom](https://atom.io/)
 * [Adobe Brackets](http://brackets.io/)
-* [MS Visual Studio Code](http://subtlepatterns.com/)
+* [MS Visual Studio Code](https://code.visualstudio.com/)
 
 ##Where To Get Help
 * [Stack Overflow](http://stackoverflow.com/)
