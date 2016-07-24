@@ -19,7 +19,7 @@ If you want to contribute  to this repository please fork it and make a pull req
 * [Freepik](http://www.freepik.com/)
 
 ##Fonts
-* [Blockk (BLOKK fontBLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.)](http://blokkfont.com/)
+* [Blokk (BLOKK fontBLOKK is a font for quick mock-ups and wireframing for clients who do not understand latin.)](http://blokkfont.com/)
 * [Google Fonts](https://fonts.google.com/)
 
 
