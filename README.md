@@ -46,6 +46,7 @@ If you want to contribute  to this repository please fork it and make a pull req
 ##Web Design
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [ColorDot Color Picker](https://color.hailpixel.com/)
+* [Palettable](http://www.palettable.io/)
 
 ##Text Editors
 * [Sublime Text](https://www.sublimetext.com/)
